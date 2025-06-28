@@ -1,13 +1,21 @@
-# Taskify
+# Taskify   - the Task-Maker
 
-Create a Full-Stack Task Management Application.
+A Full-Stack Task Management Application.
 
-### Note: Try to do it by yourself.
+
 
 ### Setup Guide
 
 #### Backend Setup
-1. go inside week-5/backend and run:
+1. i. Install the following:
+```
+ ├── cors@2.8.5
+├── dotenv@16.5.0
+├── express@4.21.2
+├── jsonwebtoken@9.0.2
+└── mongoose@8.16.0
+```
+ ii .go inside week-5/backend and run:
 
 ```
  npm install 
@@ -22,16 +30,25 @@ cp .env.example .env
 ```
 npm run dev
 ```
-start building.
+
 
 #### Frontend Setup
 
 - go inside week-5/frontend and run:
 
+```
+ npx http-server -p 8080
+
+
+
+```
+### Pending tasks:
+1. To use bcrypt library for increased security and password hashing and salting
+2. To add List of users logged in and their public details.
+3. 
 ### Reference UI:
 
 ![Image](https://utfs.io/f/A8JZzw0Laf9jdQzX4lrWunt9yxDYPKUZgv60iAroJbcMF5RN)
 ![Image](https://utfs.io/f/A8JZzw0Laf9j7O4YAiCkbTYcosHutBJ0wAWjzMN61dIF3C7R)
 
 
-start building.
