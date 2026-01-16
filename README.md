@@ -45,10 +45,5 @@ npm run dev
 ### Pending tasks:
 1. To use bcrypt library for increased security and password hashing and salting
 2. To add List of users logged in and their public details.
-3. 
-### Reference UI:
-
-![Image](https://utfs.io/f/A8JZzw0Laf9jdQzX4lrWunt9yxDYPKUZgv60iAroJbcMF5RN)
-![Image](https://utfs.io/f/A8JZzw0Laf9j7O4YAiCkbTYcosHutBJ0wAWjzMN61dIF3C7R)
 
 
